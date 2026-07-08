@@ -1,4 +1,4 @@
 My nvim config.
 
 
-![[./readme/nvimscr.png]]
+![screenshot here](./readme/nvimscr.png)
